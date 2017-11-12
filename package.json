@@ -8,7 +8,7 @@
     "build": "jest && webpack --config webpack.prod.js",
     "test": "jest"
   },
-  "author": "Theo Menkes Reis",
+  "author": "Sophia Menkes Reis",
   "license": "MIT",
   "dependencies": {
     "normalize.css": "^7.0.0",

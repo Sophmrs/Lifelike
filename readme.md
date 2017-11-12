@@ -1,6 +1,6 @@
 # Lifelike
 
-[Play around with it here.](https://theomg.github.io/Lifelike)
+[Play around with it here.](https://sophmrs.github.io/Lifelike)
 
 Lifelike is a cellular automata simulator in TypeScript using React and rendering on a 2D Canvas.
 
